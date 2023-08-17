@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    display: block;
+    text-align: center;
+    margin-top: 250px;
+    font-size: 20px;
+    color: red;
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    
+  }
+  
+  select, button {
+    margin: 10px;
+    padding: 20px;
+    display: block;
+    text-align: center;
+    position: relative;
+
+      right: -170px;
+
+  }
+  
+  button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5%;
+    cursor: pointer;
+    padding: 15px 40px;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  #band4{
+    padding: 20px 32px;
+  }
